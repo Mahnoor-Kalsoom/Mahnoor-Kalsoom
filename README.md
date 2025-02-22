@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Hi, I'm [Her Name]! 👋  
+Hi, I'm **Mahnoor Kalsoom**!  
 💻 Passionate about **Web Development** and **Java Programming**.  
 🚀 Always eager to learn new technologies and frameworks.  
 
@@ -24,9 +24,8 @@ Hi, I'm [Her Name]! 👋
 - Front-end Frameworks
 
 ## 📊 GitHub Stats:
-![Her GitHub Stats](https://github-readme-stats.vercel.app/api?username=her-github-username&show_icons=true&theme=radical)
+![Mahnoor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahnoor-Kalsoom&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me:
 [LinkedIn](https://linkedin.com/in/your-friend-profile)  
 [Portfolio](https://your-portfolio-link.com)
-
