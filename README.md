@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Mahnoor Kalsoom!<br>💻 Passionate about Web Development and Java Programming.<br>🚀 Always eager to learn new technologies and frameworks.<br><br>👩‍💻 I’m currently working on:<br>Creating dynamic web applications using HTML, CSS, JavaScript, and Java.<br>Exploring frameworks like React and Spring Boot.<br>🤝 I’m looking to collaborate on:<br>Web Development projects<br>Java-based Applications<br>Open-Source contributions<br>🌱 I’m currently learning:<br>React.js<br>Java Spring Boot<br>APIs & Databases<br>💡 Ask me about:<br>Web Development<br>Java Programming<br>Front-end Frameworks
+Hi, I'm Mahnoor Kalsoom!<br>💻 Passionate about Web Development and Java Programming.<br>🚀 Always eager to learn new technologies and frameworks.<br><br>👩‍💻 I’m currently working on:<br>Creating dynamic web applications using HTML, CSS, JavaScript, and Java.<br>Exploring frameworks like React and Spring Boot.<br><br>🤝 I’m looking to collaborate on:<br>Web Development projects<br>Java-based Applications<br>Open-Source contributions<br><br>🌱 I’m currently learning:<br>React.js<br>Java Spring Boot<br>APIs & Databases<br><br>💡 Ask me about:<br>Web Development<br>Java Programming<br>Front-end Frameworks
 
 
 ## 🌐 Socials:
